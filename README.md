@@ -1,7 +1,7 @@
 # Basic-Valorant-Tool
 A basic valorant store checker that uses C# .NET Framework 4.8 &amp; WinForm
 
-The .cs file on it's own will not be able to compile as this tool was built on top of my other programm, so there are many other dependencies.
+The .cs file on it's own will not be able to compile as this tool was built on top of my other program, so there are many other dependencies.
 
 The code itself is garbage and pretty useless on it's own, most of it could not be done without [brianbaldner's ValAPI.NET class library](https://github.com/brianbaldner/ValAPI.Net).
 
